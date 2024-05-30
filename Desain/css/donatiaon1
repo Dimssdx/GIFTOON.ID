@@ -1,316 +1,191 @@
-my donation 
-
-/* My Donation */
-
-position: relative;
-width: 1440px;
-height: 1309px;
-
-background: #FFFFFF;
-
-
-/* Rectangle 147 */
-
-position: absolute;
-width: 1440px;
-height: 1481px;
-left: 0px;
-top: 0px;
-
-background: linear-gradient(236.6deg, #50CBFF 25.76%, #008EFF 118.54%);
-
-
-/* Rectangle 150 */
-
-position: absolute;
-width: 1441px;
-height: 125px;
-left: calc(50% - 1441px/2 + 0.5px);
-top: -4px;
-
-background: linear-gradient(90.68deg, #6043AD -23.71%, #DC4493 104.6%);
-
-
-/* Arrow 3 */
-
-position: absolute;
-width: 57px;
-height: 57px;
-left: 39px;
-top: 42px;
-
-
-
-/* Box */
-
-position: absolute;
-width: 57px;
-height: 57px;
-left: 39px;
-top: 42px;
-
-
-
-/* My Donations */
-
-position: absolute;
-width: 435px;
-height: 76px;
-left: calc(50% - 435px/2 + 448.5px);
-top: 27px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 61px;
-line-height: 124.26%;
-/* identical to box height, or 76px */
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #FFFFFF;
-
-
-
-/* picture6 1 */
-
-position: absolute;
-width: 933px;
-height: 312px;
-left: 66px;
-top: 210px;
-
-background: url(picture6);
-border-radius: 34px;
-
-
-/* Panti Asuhan Takfi */
-
-position: absolute;
-width: 280px;
-height: 36px;
-left: calc(50% - 280px/2 - 505px);
-top: 543px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 29px;
-line-height: 124.26%;
-/* identical to box height, or 36px */
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #FFFFFF;
-
-
-
-/* Korban Tanah Longsor */
-
-position: absolute;
-width: 339px;
-height: 36px;
-left: calc(50% - 339px/2 - 475.5px);
-top: 1083px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 29px;
-line-height: 124.26%;
-/* identical to box height, or 36px */
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #FFFFFF;
-
-
-
-/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit . */
-
-position: absolute;
-width: 924px;
-height: 125px;
-left: calc(50% - 924px/2 - 183px);
-top: 579px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 20px;
-line-height: 124.26%;
-/* or 25px */
-display: flex;
-align-items: center;
-text-align: justify;
-
-color: #FFFFFF;
-
-
-
-/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit . */
-
-position: absolute;
-width: 924px;
-height: 125px;
-left: calc(50% - 924px/2 - 183px);
-top: 1121px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 20px;
-line-height: 124.26%;
-/* or 25px */
-display: flex;
-align-items: center;
-text-align: justify;
-
-color: #FFFFFF;
-
-
-
-/* Terkumpul */
-
-position: absolute;
-width: 134px;
-height: 27px;
-left: calc(50% - 134px/2 - 578px);
-top: 713px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 22px;
-line-height: 124.26%;
-/* or 27px */
-display: flex;
-align-items: center;
-text-align: justify;
-
-color: #FFFFFF;
-
-
-
-/* Terkumpul */
-
-position: absolute;
-width: 134px;
-height: 27px;
-left: calc(50% - 134px/2 - 578px);
-top: 1255px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 22px;
-line-height: 124.26%;
-/* or 27px */
-display: flex;
-align-items: center;
-text-align: justify;
-
-color: #FFFFFF;
-
-
-
-/* Rp 240.000 */
-
-position: absolute;
-width: 134px;
-height: 27px;
-left: calc(50% - 134px/2 + 221px);
-top: 719px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 22px;
-line-height: 124.26%;
-/* or 27px */
-display: flex;
-align-items: center;
-text-align: justify;
-
-color: #FFFFFF;
-
-
-
-/* Rp 240.000 */
-
-position: absolute;
-width: 134px;
-height: 27px;
-left: calc(50% - 134px/2 + 221px);
-top: 1261px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 22px;
-line-height: 124.26%;
-/* or 27px */
-display: flex;
-align-items: center;
-text-align: justify;
-
-color: #FFFFFF;
-
-
-
-/* picture3 1 */
-
-position: absolute;
-width: 924px;
-height: 306px;
-left: 75px;
-top: 762px;
-
-background: url(picture3);
-border-radius: 20px;
-
-
-/* Arrow 4 */
-
-position: absolute;
-width: 57px;
-height: 57px;
-left: 66px;
-top: 30px;
-
-
-
-/* Box */
-
-position: absolute;
-width: 57px;
-height: 57px;
-left: 66px;
-top: 30px;
-
-
-
-/* Line */
-
-position: absolute;
-width: 17.81px;
-height: 35.62px;
-left: 83.81px;
-top: 40.69px;
-
-border: 7px solid #FFFFFF;
-
-
-/* logo GIFTOON 5 */
-
-position: absolute;
-width: 281px;
-height: 54px;
-left: 160px;
-top: 31px;
-
-background: url(logo GIFTOON.jpg);
-border-radius: 1px;
+.my-donation {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 21px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .my-donation .container {
+    position: relative;
+    margin: 0 75px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    width: 924px;
+    box-sizing: border-box;
+  }
+  .my-donation .rectangle-147 {
+    background: linear-gradient(56.6deg, #50CBFF 74.2%, #008EFF 218.58%);
+    position: absolute;
+    left: 50%;
+    top: 0px;
+    translate: -50% 0;
+    width: 1440px;
+    height: 1481px;
+  }
+  .my-donation .my-donations {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 61px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .my-donation .picture-61 {
+    border-radius: 34px;
+    background: url('../assets/images/picture_62.jpeg');
+    position: relative;
+    margin: 0 66px 21px 66px;
+    align-self: flex-start;
+    width: 933px;
+    height: 312px;
+  }
+  .my-donation .panti-asuhan-takfi {
+    position: relative;
+    margin: 0 75.2px;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .my-donation .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat-duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit {
+    position: relative;
+    margin: 0 75px 9px 75px;
+    display: inline-block;
+    align-self: flex-start;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .my-donation .terkumpul {
+    margin: 0 13.5px 6px 0;
+    display: inline-block;
+    width: 785.5px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .my-donation .rp-240000 {
+    margin-top: 6px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .my-donation .korban-tanah-longsor {
+    position: relative;
+    margin: 0 76.2px 2px 76.2px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .my-donation .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat-duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit-1 {
+    position: relative;
+    margin: 0 75px 9px 75px;
+    display: inline-block;
+    align-self: flex-start;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .my-donation .terkumpul-1 {
+    margin: 0 13.5px 6px 0;
+    display: inline-block;
+    width: 785.5px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .my-donation .rp-2400001 {
+    margin-top: 6px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .my-donation .picture-31 {
+    border-radius: 20px;
+    background: url('../assets/images/picture_35.jpeg');
+    position: relative;
+    margin: 0 75px 15px 75px;
+    align-self: flex-start;
+    width: 924px;
+    height: 306px;
+  }
+  .my-donation .arrow-4 {
+    margin: 9.7px 0 8.7px 0;
+    display: flex;
+    width: 17.8px;
+    height: 35.6px;
+    box-sizing: border-box;
+  }
+  .my-donation .line {
+    width: 17.8px;
+    height: 35.6px;
+  }
+  .my-donation .logo-giftoon-5 {
+    border-radius: 1px;
+    background: url('../assets/images/logo_giftoon_6.jpeg');
+    width: 281px;
+    height: 54px;
+  }
+  .my-donation .container-1 {
+    position: relative;
+    margin: 0 75px 16px 75px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    width: 924px;
+    box-sizing: border-box;
+  }
+  .my-donation .container-2 {
+    background: linear-gradient(270.68deg, #6043AD 123.7%, #DC4493 204.6%);
+    position: relative;
+    margin-bottom: 89px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 31px 57.5px 18px 83.8px;
+    width: 1441px;
+    box-sizing: border-box;
+  }
+  .my-donation .container-3 {
+    margin: 4px 0 18px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 357.2px;
+    height: fit-content;
+    box-sizing: border-box;
+  }

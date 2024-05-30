@@ -1,326 +1,175 @@
-/* Create Donation */
-
-position: relative;
-width: 1440px;
-height: 1175px;
-
-background: #FFFFFF;
-
-
-/* Rectangle 149 */
-
-position: absolute;
-width: 1440px;
-height: 1175px;
-left: 0px;
-top: 0px;
-
-background: linear-gradient(236.6deg, #50CBFF 25.76%, #008EFF 118.54%);
-
-
-/* Arrow 5 */
-
-position: absolute;
-width: 57px;
-height: 57px;
-left: 48px;
-top: 45px;
-
-
-
-/* Box */
-
-position: absolute;
-width: 57px;
-height: 57px;
-left: 48px;
-top: 45px;
-
-
-
-/* Line */
-
-position: absolute;
-width: 17.81px;
-height: 35.62px;
-left: 65.81px;
-top: 55.69px;
-
-border: 7px solid #FFFFFF;
-
-
-/* Rectangle 150 */
-
-position: absolute;
-width: 933px;
-height: 334px;
-left: 104px;
-top: 673px;
-
-background: linear-gradient(98.18deg, #7944A8 -0.68%, #D54495 103.43%);
-border-radius: 20px;
-
-
-/* Rectangle 151 */
-
-position: absolute;
-width: 571px;
-height: 68px;
-left: 111px;
-top: 564px;
-
-background: linear-gradient(98.18deg, #7944A8 -0.68%, #D54495 103.43%);
-border-radius: 20px;
-
-
-/* logo GIFTOON 6 */
-
-position: absolute;
-width: 281px;
-height: 54px;
-left: 142px;
-top: 48px;
-
-background: url(logo GIFTOON.jpg);
-border-radius: 1px;
-
-
-/* Judul : */
-
-position: absolute;
-width: 127px;
-height: 42px;
-left: calc(50% - 127px/2 - 540.5px);
-top: 577px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 34px;
-line-height: 124.26%;
-/* or 42px */
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #FFFFFF;
-
-
-
-/* Keterangan : */
-
-position: absolute;
-width: 229px;
-height: 42px;
-left: calc(50% - 229px/2 - 485.5px);
-top: 691px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 34px;
-line-height: 124.26%;
-/* or 42px */
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #FFFFFF;
-
-
-
-/* picture6 6 */
-
-position: absolute;
-width: 933px;
-height: 312px;
-left: 105px;
-top: 210px;
-
-background: #DADADA;
-border-radius: 34px;
-
-
-/* Group 149 */
-
-position: absolute;
-width: 158px;
-height: 158px;
-left: 493px;
-top: 287px;
-
-
-
-/* Rectangle 19 */
-
-position: absolute;
-width: 158px;
-height: 158px;
-left: 493px;
-top: 287px;
-
-
-
-/* Group 132 */
-
-position: absolute;
-width: 131.67px;
-height: 105.33px;
-left: 506.18px;
-top: 313.33px;
-
-
-
-/* Vector */
-
-position: absolute;
-left: 35.15%;
-right: 55.7%;
-top: 26.67%;
-bottom: 64.37%;
-
-border: 7px solid #44475C;
-
-
-/* Vector */
-
-position: absolute;
-left: 36.98%;
-right: 55.77%;
-top: 31.05%;
-bottom: 64.37%;
-
-border: 7px solid #44475C;
-
-
-/* Vector */
-
-position: absolute;
-left: 36.98%;
-right: 61.19%;
-top: 28.91%;
-bottom: 68.85%;
-
-background: #44475C;
-
-
-/* Button Donasi */
-
-position: absolute;
-width: 281px;
-height: 64px;
-left: calc(50% - 281px/2 + 500.5px);
-top: 1051px;
-
-/* drop shadow */
-filter: drop-shadow(0px 0px 47.7px rgba(0, 0, 0, 0.15));
-
-
-/* Rectangle 4 */
-
-position: absolute;
-width: 281px;
-height: 64px;
-left: calc(50% - 281px/2 + 500.5px);
-top: 1051px;
-
-background: linear-gradient(268.7deg, #DF458F -3.92%, #51CCFF 94.37%);
-border-radius: 27px;
-
-
-/* Buka Donasi */
-
-position: absolute;
-width: 228px;
-height: 43px;
-left: calc(50% - 228px/2 + 500px);
-top: 1061px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 600;
-font-size: 35px;
-line-height: 124.26%;
-/* or 43px */
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #FFFFFF;
-
-
-
-/* Rectangle 152 */
-
-position: absolute;
-width: 1441px;
-height: 125px;
-left: calc(50% - 1441px/2 + 0.5px);
-top: 0px;
-
-background: linear-gradient(90.68deg, #6043AD -23.71%, #DC4493 104.6%);
-
-
-/* Arrow 6 */
-
-position: absolute;
-width: 57px;
-height: 57px;
-left: 66px;
-top: 34px;
-
-
-
-/* Box */
-
-position: absolute;
-width: 57px;
-height: 57px;
-left: 66px;
-top: 34px;
-
-
-
-/* Line */
-
-position: absolute;
-width: 17.81px;
-height: 35.62px;
-left: 83.81px;
-top: 44.69px;
-
-border: 7px solid #FFFFFF;
-
-
-/* Create Donatios */
-
-position: absolute;
-width: 511px;
-height: 76px;
-left: calc(50% - 511px/2 + 443.5px);
-top: 24px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 61px;
-line-height: 124.26%;
-/* identical to box height, or 76px */
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #FFFFFF;
-
-
-
-/* logo GIFTOON 7 */
-
-position: absolute;
-width: 281px;
-height: 54px;
-left: 160px;
-top: 35px;
-
-background: url(logo GIFTOON.jpg);
-border-radius: 1px;
+.create-donation .container {
+    border-radius: 34px;
+    background: #DADADA;
+    position: relative;
+    margin: 0 105px 42px 105px;
+    display: flex;
+    align-self: flex-start;
+    padding: 103.3px 0 103.3px 1px;
+    width: 933px;
+    height: 312px;
+    box-sizing: border-box;
+  }
+  .create-donation {
+    background: #FFFFFF;
+    display: flex;
+    padding-bottom: 60px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .create-donation .rectangle-149 {
+    background: linear-gradient(56.6deg, #50CBFF 74.2%, #008EFF 218.58%);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 100%;
+  }
+  .create-donation .container-1 {
+    margin: 11px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 357.2px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .create-donation .container-2 {
+    background: linear-gradient(270.68deg, #6043AD 123.7%, #DC4493 204.6%);
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 24px 23.4px 25px 83.8px;
+    width: 1441px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .create-donation .keterangan {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .create-donation .group-149 {
+    display: flex;
+    width: 131.7px;
+    height: 105.3px;
+    box-sizing: border-box;
+  }
+  .create-donation .group-132 {
+    width: 131.7px;
+    height: 105.3px;
+  }
+  .create-donation .button-donasi {
+    border-radius: 27px;
+    background: linear-gradient(268.7deg, #DF458F -3.9%, #51CCFF 94.4%);
+    position: relative;
+    margin: 0 80px;
+    display: flex;
+    align-self: flex-end;
+    padding: 10px 1px 11px 0;
+    width: 281px;
+    box-sizing: border-box;
+  }
+  .create-donation .buka-donasi {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .create-donation .arrow-5 {
+    position: absolute;
+    left: 65.8px;
+    top: 55.7px;
+    display: flex;
+    width: 17.8px;
+    height: 35.6px;
+    box-sizing: border-box;
+  }
+  .create-donation .line {
+    width: 17.8px;
+    height: 35.6px;
+  }
+  .create-donation .logo-giftoon-6 {
+    border-radius: 1px;
+    background: url('../assets/images/logo_giftoon_6.jpeg');
+    position: absolute;
+    left: 142px;
+    bottom: 23px;
+    width: 281px;
+    height: 54px;
+  }
+  .create-donation .create-donatios {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 61px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .create-donation .judul {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .create-donation .arrow-6 {
+    margin: 9.7px 0 8.7px 0;
+    display: flex;
+    width: 17.8px;
+    height: 35.6px;
+    box-sizing: border-box;
+  }
+  .create-donation .line-1 {
+    width: 17.8px;
+    height: 35.6px;
+  }
+  .create-donation .logo-giftoon-7 {
+    border-radius: 1px;
+    background: url('../assets/images/logo_giftoon_6.jpeg');
+    width: 281px;
+    height: 54px;
+  }
+  .create-donation .container-3 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 1441px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .create-donation .container-4 {
+    border-radius: 20px;
+    background: linear-gradient(278.18deg, #7944A8 100.7%, #D54495 203.4%);
+    position: relative;
+    margin: 0 104px 44px 104px;
+    align-self: flex-start;
+    padding: 18px 17.6px 274px 17.6px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .create-donation .container-5 {
+    position: relative;
+    margin-bottom: 85px;
+    display: flex;
+    width: 1441px;
+    box-sizing: border-box;
+  }
+  .create-donation .container-6 {
+    border-radius: 20px;
+    background: linear-gradient(278.18deg, #7944A8 100.7%, #D54495 203.4%);
+    position: relative;
+    margin: 0 111px 41px 111px;
+    align-self: flex-start;
+    padding: 13px 10.8px;
+    width: fit-content;
+    box-sizing: border-box;
+  }

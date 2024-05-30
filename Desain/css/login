@@ -1,229 +1,108 @@
-LOGIN
-
-/* Login */
-
-position: relative;
-width: 1440px;
-height: 1024px;
-
-background: #FFFFFF;
-
-
-/* vector3 1 */
-
-position: absolute;
-width: 998px;
-height: 1102px;
-left: 0px;
-top: -39px;
-
-background: url(vector3.jpg);
-
-
-/* Rectangle 1 */
-
-position: absolute;
-width: 650px;
-height: 1024px;
-left: 861px;
-top: 0px;
-
-background: #6043AD;
-border-radius: 32px;
-
-
-/* Register */
-
-position: absolute;
-width: 373px;
-height: 86px;
-left: calc(50% - 373px/2 + 422.5px);
-top: 218px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 600;
-font-size: 89px;
-line-height: 134px;
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #FFFFFF;
-
-
-
-/* Username */
-
-position: absolute;
-width: 140px;
-height: 41px;
-left: 948px;
-top: 381px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 27px;
-line-height: 40px;
-/* identical to box height */
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #FFFFFF;
-
-
-
-/* Email */
-
-position: absolute;
-width: 74px;
-height: 41px;
-left: 948px;
-top: 459px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 27px;
-line-height: 40px;
-/* identical to box height */
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #FFFFFF;
-
-
-
-/* Password */
-
-position: absolute;
-width: 130px;
-height: 41px;
-left: 948px;
-top: 540px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 27px;
-line-height: 40px;
-/* identical to box height */
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #FFFFFF;
-
-
-
-/* Confirm Password */
-
-position: absolute;
-width: 246px;
-height: 41px;
-left: 948px;
-top: 626px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 27px;
-line-height: 40px;
-/* identical to box height */
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #FFFFFF;
-
-
-
-/* Line 1 */
-
-position: absolute;
-width: 395px;
-height: 0px;
-left: 948px;
-top: 438px;
-
-border: 4px solid #FFFFFF;
-
-
-/* Line 2 */
-
-position: absolute;
-width: 395px;
-height: 0px;
-left: 948px;
-top: 517px;
-
-border: 4px solid #FFFFFF;
-
-
-/* Line 3 */
-
-position: absolute;
-width: 395px;
-height: 0px;
-left: 948px;
-top: 598px;
-
-border: 4px solid #FFFFFF;
-
-
-/* Line 4 */
-
-position: absolute;
-width: 395px;
-height: 0px;
-left: 948px;
-top: 684px;
-
-border: 4px solid #FFFFFF;
-
-
-/* login button */
-
-position: absolute;
-width: 151px;
-height: 51px;
-left: 1069px;
-top: 780px;
-
-
-
-/* Rectangle 2 */
-
-position: absolute;
-width: 151px;
-height: 51px;
-left: 1069px;
-top: 780px;
-
-background: linear-gradient(97.87deg, #E34689 0%, #AF39CB 108.69%);
-border-radius: 35px;
-
-
-/* Register */
-
-position: absolute;
-width: 129px;
-height: 48px;
-left: 1081px;
-top: 780px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 32px;
-line-height: 48px;
-/* identical to box height */
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #FFFFFF;
-
+.login .logo-giftoon-3 {
+    background: url('../assets/images/logo_giftoon_6.jpeg');
+    position: absolute;
+    left: 149px;
+    top: 222px;
+    width: 281px;
+    height: 54px;
+  }
+  .login {
+    background: #FFFFFF;
+    display: flex;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .login .login-button {
+    border-radius: 35px;
+    background: linear-gradient(277.87deg, #E34689 100%, #AF39CB 208.7%);
+    position: relative;
+    margin-left: 12px;
+    display: flex;
+    align-self: center;
+    padding: 0 0 3px 2px;
+    width: 151px;
+    box-sizing: border-box;
+  }
+  .login .belum-punya-akun-daftar-sekarang {
+    margin: 0 11.2px 30px 11.2px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+  }
+  .login .container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .login .vector-31 {
+    background: url('../assets/images/vector_31.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    left: 0px;
+    bottom: -39px;
+    width: 998px;
+    height: 1102px;
+  }
+  .login .login-1 {
+    margin-bottom: 91px;
+    display: inline-block;
+    align-self: center;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 89px;
+    color: #FFFFFF;
+  }
+  .login .line-1 {
+    background: #FFFFFF;
+    margin-bottom: 60px;
+    width: 395px;
+    height: 4px;
+  }
+  .login .login-2 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 32px;
+    color: #FFFFFF;
+  }
+  .login .email {
+    margin: 0 11.1px 11px 11.1px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 32px;
+    color: #FFFFFF;
+  }
+  .login .line-2 {
+    background: #FFFFFF;
+    margin-bottom: 15px;
+    width: 395px;
+    height: 4px;
+  }
+  .login .password {
+    margin: 0 11.1px 11px 11.1px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 32px;
+    color: #FFFFFF;
+  }
+  .login .container-1 {
+    border-radius: 32px;
+    background: #6043AD;
+    position: relative;
+    display: flex;
+    padding: 271px 83px 222px 0;
+    width: 650px;
+    height: fit-content;
+    box-sizing: border-box;
+  }

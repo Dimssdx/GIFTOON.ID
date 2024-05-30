@@ -1,196 +1,111 @@
-REGISTRASI
-
-/* Login */
-
-position: relative;
-width: 1440px;
-height: 1024px;
-
-background: #FFFFFF;
-
-
-/* vector3 1 */
-
-position: absolute;
-width: 998px;
-height: 1102px;
-left: 0px;
-top: -39px;
-
-background: url(vector3.jpg);
-
-
-/* Rectangle 1 */
-
-position: absolute;
-width: 650px;
-height: 1024px;
-left: 861px;
-top: 0px;
-
-background: #6043AD;
-border-radius: 32px;
-
-
-/* Login */
-
-position: absolute;
-width: 255px;
-height: 86px;
-left: calc(50% - 255px/2 + 424.5px);
-top: 295px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 600;
-font-size: 89px;
-line-height: 134px;
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #FFFFFF;
-
-
-
-/* Email */
-
-position: absolute;
-width: 87px;
-height: 48px;
-left: 958px;
-top: 496px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 32px;
-line-height: 48px;
-/* identical to box height */
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #FFFFFF;
-
-
-
-/* Password */
-
-position: absolute;
-width: 154px;
-height: 48px;
-left: 958px;
-top: 619px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 32px;
-line-height: 48px;
-/* identical to box height */
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #FFFFFF;
-
-
-
-/* Belum punya akun? Daftar sekarang */
-
-position: absolute;
-width: 292px;
-height: 24px;
-left: 958px;
-top: 697px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-/* identical to box height */
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #FFFFFF;
-
-
-
-/* Line 1 */
-
-position: absolute;
-width: 395px;
-height: 0px;
-left: 947px;
-top: 555px;
-
-border: 4px solid #FFFFFF;
-
-
-/* Line 2 */
-
-position: absolute;
-width: 395px;
-height: 0px;
-left: 947px;
-top: 678px;
-
-border: 4px solid #FFFFFF;
-
-
-/* login button */
-
-position: absolute;
-width: 151px;
-height: 51px;
-left: 1075px;
-top: 751px;
-
-
-
-/* Rectangle 2 */
-
-position: absolute;
-width: 151px;
-height: 51px;
-left: 1075px;
-top: 751px;
-
-background: linear-gradient(97.87deg, #E34689 0%, #AF39CB 108.69%);
-border-radius: 35px;
-
-
-/* Login */
-
-position: absolute;
-width: 85px;
-height: 48px;
-left: 1109px;
-top: 751px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 32px;
-line-height: 48px;
-/* identical to box height */
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #FFFFFF;
-
-
-
-/* logo GIFTOON 3 */
-
-position: absolute;
-width: 281px;
-height: 54px;
-left: 1010px;
-top: 222px;
-
-background: url(logo GIFTOON.jpg);
+.login {
+    background: #FFFFFF;
+    display: flex;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .login-1 .vector-31 {
+    background: url('../assets/images/vector_31.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    left: 0px;
+    bottom: -39px;
+    width: 998px;
+    height: 1102px;
+  }
+  .login-1 .register {
+    margin: 0 6px 53px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 89px;
+    color: #FFFFFF;
+  }
+  .login-1 .username {
+    margin: 0 255px 16px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 27px;
+    color: #FFFFFF;
+  }
+  .login-1 .email {
+    margin: 0 321px 17px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 27px;
+    color: #FFFFFF;
+  }
+  .login-1 .line-1 {
+    background: #FFFFFF;
+    margin-bottom: 17px;
+    width: 395px;
+    height: 4px;
+  }
+  .login-1 .line-2 {
+    background: #FFFFFF;
+    margin-bottom: 19px;
+    width: 395px;
+    height: 4px;
+  }
+  .login-1 .login-button {
+    border-radius: 35px;
+    background: linear-gradient(277.87deg, #E34689 100%, #AF39CB 208.7%);
+    position: relative;
+    margin-right: 2px;
+    display: flex;
+    padding: 0 10px 3px 12px;
+    box-sizing: border-box;
+  }
+  .login-1 .register-1 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 32px;
+    color: #FFFFFF;
+  }
+  .login-1 .password {
+    margin: 0 265px 17px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 27px;
+    color: #FFFFFF;
+  }
+  .login-1 .line-3 {
+    background: #FFFFFF;
+    margin-bottom: 24px;
+    width: 395px;
+    height: 4px;
+  }
+  .login-1 .confirm-password {
+    margin: 0 149px 17px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 27px;
+    color: #FFFFFF;
+  }
+  .login-1 .line-4 {
+    background: #FFFFFF;
+    margin-bottom: 92px;
+    width: 395px;
+    height: 4px;
+  }
+  .login-1 .container {
+    border-radius: 32px;
+    background: #6043AD;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 194px 0 193px 0;
+    width: 650px;
+    height: fit-content;
+    box-sizing: border-box;
+  }

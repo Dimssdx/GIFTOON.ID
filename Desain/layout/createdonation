@@ -1,0 +1,45 @@
+<div class="create-donation">
+  <div class="rectangle-149">
+  </div>
+  <div class="arrow-5">
+    <img class="line" src="../assets/vectors/line_9_x2.svg" />
+  </div>
+  <div class="container-3">
+    <div class="container-5">
+      <div class="container-2">
+        <div class="container-1">
+          <div class="arrow-6">
+            <img class="line-1" src="../assets/vectors/line_4_x2.svg" />
+          </div>
+          <div class="logo-giftoon-7">
+          </div>
+        </div>
+        <span class="create-donatios">
+          Create Donatios
+        </span>
+      </div>
+      <div class="logo-giftoon-6">
+      </div>
+    </div>
+    <div class="container">
+      <div class="group-149">
+        <img class="group-132" src="../assets/vectors/group_132_x2.svg" />
+      </div>
+    </div>
+    <div class="container-6">
+      <span class="judul">
+        Judul : 
+      </span>
+    </div>
+    <div class="container-4">
+      <span class="keterangan">
+        Keterangan :
+      </span>
+    </div>
+    <div class="button-donasi">
+      <span class="buka-donasi">
+        Buka Donasi
+      </span>
+    </div>
+  </div>
+</div>
