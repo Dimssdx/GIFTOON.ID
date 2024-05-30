@@ -1,0 +1,561 @@
+CARA KERJA
+
+/* How it Works? */
+
+position: relative;
+width: 1440px;
+height: 3662px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 146 */
+
+position: absolute;
+width: 1440px;
+height: 3663px;
+left: 0px;
+top: 2px;
+
+background: linear-gradient(236.6deg, #50CBFF 25.76%, #008EFF 118.54%);
+
+
+/* Group 321 */
+
+position: absolute;
+width: 766.3px;
+height: 597px;
+left: 319px;
+top: 106px;
+
+
+
+/* Bagaimana Cara Kerja GIFTOON (1) 1 */
+
+position: absolute;
+width: 766.3px;
+height: 597px;
+left: 319px;
+top: 106px;
+
+background: url(Bagaimana Cara Kerja GIFTOON (1).png);
+
+
+/* Bagaimana Cara Kerja GIFTOON? */
+
+position: absolute;
+width: 391px;
+height: 110px;
+left: calc(50% - 391px/2 - 47.43px);
+top: 459.42px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 44px;
+line-height: 124.26%;
+/* or 55px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+transform: rotate(-1deg);
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 1441px;
+height: 125px;
+left: calc(50% - 1441px/2 + 0.5px);
+top: 1365px;
+
+background: linear-gradient(90.68deg, #6043AD -23.71%, #DC4493 104.6%);
+
+
+/* Rectangle 147 */
+
+position: absolute;
+width: 1441px;
+height: 103px;
+left: calc(50% - 1441px/2 + 0.5px);
+top: 2773px;
+
+background: linear-gradient(90.68deg, #6043AD -23.71%, #DC4493 104.6%);
+
+
+/* Bagaimana Cara Kerja GIFTOON? Inilah yang Harus Anda Ketahui Saat Menggalang Dana: */
+
+position: absolute;
+width: 933px;
+height: 100px;
+left: calc(50% - 933px/2 - 163.5px);
+top: 1378px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 124.26%;
+/* or 50px */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Mengapa Memilih GIFTOON? */
+
+position: absolute;
+width: 933px;
+height: 76px;
+left: calc(50% - 933px/2 - 163.5px);
+top: 2784px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 61px;
+line-height: 124.26%;
+/* identical to box height, or 76px */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Bagaimana Cara Kerja GIFTOON adalah platform penggalangan dana online yang membantu Anda mengumpulkan dana untuk berbagai kebutuhan, mulai dari bantuan medis, pendidikan, hingga proyek sosial. Dengan GIFTOON, Anda dapat dengan mudah membuat kampanye, membagikannya kepada komunitas Anda, dan mencapai target donasi Anda.? */
+
+position: absolute;
+width: 983px;
+height: 216px;
+left: calc(50% - 983px/2 + 0.5px);
+top: 675px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 124.26%;
+/* or 36px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Percayakan Penggalangan Dana Anda pada GIFTOON
+Dengan GIFTOON, Anda mendapatkan platform terpercaya dan mudah digunakan untuk menggalang dana untuk berbagai kebutuhan. Kami berkomitmen membantu Anda mencapai tujuan dengan dukungan penuh dari komunitas kami. */
+
+position: absolute;
+width: 1095px;
+height: 180px;
+left: calc(50% - 1095px/2 - 82.5px);
+top: 2882px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 124.26%;
+/* or 36px */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Tetap terhubung dengan kami untuk mendapatkan update terbaru dan cerita inspiratif di: */
+
+position: absolute;
+width: 1044px;
+height: 72px;
+left: calc(50% - 1044px/2 - 108px);
+top: 3472px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 124.26%;
+/* or 36px */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Hubungi Kami */
+
+position: absolute;
+width: 282px;
+height: 46px;
+left: calc(50% - 282px/2 - 489px);
+top: 3105px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 37px;
+line-height: 124.26%;
+/* identical to box height, or 46px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Ikuti Kami di Media Sosial */
+
+position: absolute;
+width: 509px;
+height: 46px;
+left: calc(50% - 509px/2 - 381.5px);
+top: 3401px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 37px;
+line-height: 124.26%;
+/* identical to box height, or 46px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* 1. Membuka Galangan Donasi Mulailah dengan menekan tombol “Buka Donasi” dan ikuti langkah-langkah berikut: Isi Informasi Dasar: Jelaskan tujuan penggalangan dana Anda dalam 1-3 paragraf. Detail Kampanye: Tambahkan detail seperti: Siapa atau apa yang Anda galang dana. Gambar atau video utama yang mewakili kampanye Anda. Tentukan Target Dana: Tetapkan jumlah target donasi yang ingin dicapai. Jangan khawatir, Anda bisa mengubahnya nanti jika diperlukan. 2. Bagikan Kampanye Anda Sebarkan Link Kampanye: Bagikan link kampanye Anda melalui pesan teks dan email kepada komunitas Anda untuk mulai mendapatkan dukungan. Gunakan Media Sosial: Terus bagikan kampanye Anda di media sosial, cetak poster, atau tulis surat kepada orang-orang yang Anda kenal. Tambah Anggota Tim: Ajak teman atau anggota keluarga yang Anda percayai untuk membantu menyebarkan informasi tentang kampanye Anda. 3. Posting Pembaruan dan Ucapkan Terima Kasih kepada Donatur Posting Pembaruan: Selama perjalanan penggalangan dana, Anda bisa memposting pembaruan kampanye untuk meningkatkan donasi dan menjaga donatur tetap terinformasi. Ucapan Terima Kasih: Ucapkan terima kasih kepada donatur melalui dashboard kampanye Anda dengan mudah. 4. Pengaturan Transfer Bank Tambahkan Informasi Bank: Masukkan informasi bank Anda untuk mulai menerima dana (Anda tidak perlu mencapai target donasi untuk mulai menerima uang). Tambahkan Penerima Manfaat: Jika Anda menggalang dana untuk orang lain, tambahkan mereka sebagai penerima manfaat. */
+
+position: absolute;
+width: 1261px;
+height: 1085px;
+left: calc(50% - 1261px/2 + 0.5px);
+top: 1518px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 29px;
+line-height: 106%;
+/* or 31px */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Jika Anda memiliki pertanyaan atau memerlukan bantuan, jangan ragu untuk menghubungi tim kami */
+
+position: absolute;
+width: 834px;
+height: 74px;
+left: calc(50% - 834px/2 - 207px);
+top: 3157px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 29px;
+line-height: 106%;
+/* or 31px */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Email: support@giftoon.com Telepon: +62 123 456 7890 Alamat: Jl. Contoh No. 123, Jakarta, Indonesia */
+
+position: absolute;
+width: 734px;
+height: 151px;
+left: calc(50% - 734px/2 - 263px);
+top: 3244px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 29px;
+line-height: 188%;
+/* or 55px */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* 35248879_2210_w046_n005_352b_p1_352 1 */
+
+position: absolute;
+width: 803px;
+height: 318px;
+left: calc(50% - 803px/2 + 0.5px);
+top: 949px;
+
+background: url(35248879_2210_w046_n005_352b_p1_352.jpg);
+border-radius: 39px;
+
+
+/* Arrow 3 */
+
+position: absolute;
+width: 57px;
+height: 57px;
+left: 39px;
+top: 42px;
+
+
+
+/* Box */
+
+position: absolute;
+width: 57px;
+height: 57px;
+left: 39px;
+top: 42px;
+
+
+
+/* Line */
+
+position: absolute;
+width: 17.81px;
+height: 35.62px;
+left: 56.81px;
+top: 52.69px;
+
+border: 7px solid #FFFFFF;
+
+
+/* logo GIFTOON 4 */
+
+position: absolute;
+width: 281px;
+height: 54px;
+left: 133px;
+top: 45px;
+
+background: url(logo GIFTOON.jpg);
+border-radius: 1px;
+
+
+/* Button Donasi */
+
+position: absolute;
+width: 281px;
+height: 64px;
+left: calc(50% - 281px/2 - 0.5px);
+top: 2666px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 281px;
+height: 64px;
+left: calc(50% - 281px/2 - 0.5px);
+top: 2666px;
+
+background: linear-gradient(268.7deg, #DF458F -3.92%, #51CCFF 94.37%);
+border-radius: 27px;
+
+
+/* Buka Donasi */
+
+position: absolute;
+width: 228px;
+height: 43px;
+left: calc(50% - 228px/2 - 1px);
+top: 2676px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 124.26%;
+/* or 43px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Social Icons */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 96px;
+top: 3572px;
+
+
+
+/* c */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0.37%;
+
+background: #0866FF;
+
+
+/* d */
+
+position: absolute;
+left: 27.61%;
+right: 26.8%;
+top: 18.51%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* GIFTOON */
+
+position: absolute;
+width: 141.1px;
+height: 35px;
+left: 160px;
+top: 3581px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 124.26%;
+/* identical to box height, or 35px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Social Icons */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 325px;
+top: 3572px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.06%;
+top: 0%;
+bottom: 0.02%;
+
+background: #000100;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.32%;
+right: 24.32%;
+top: 24.32%;
+bottom: 24.32%;
+
+background: #000100;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.7%;
+right: 17.3%;
+top: 17.3%;
+bottom: 70.7%;
+
+background: #000100;
+
+
+/* @giftoon_id */
+
+position: absolute;
+width: 207.14px;
+height: 35px;
+left: 398px;
+top: 3573px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 124.26%;
+/* identical to box height, or 35px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* @giftoon_id */
+
+position: absolute;
+width: 207.14px;
+height: 35px;
+left: 709px;
+top: 3573px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 124.26%;
+/* identical to box height, or 35px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Social Icons */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 643px;
+top: 3572px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 7.93%;
+bottom: 9.21%;
+
+background: #000000;

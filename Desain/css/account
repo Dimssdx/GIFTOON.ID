@@ -1,0 +1,401 @@
+AKUN
+
+/* Account */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 1440px;
+height: 1878px;
+left: 0px;
+top: -16px;
+
+background: linear-gradient(236.6deg, #50CBFF 25.76%, #008EFF 118.54%);
+
+
+/* Rectangle 144 */
+
+position: absolute;
+width: 1440px;
+height: 289px;
+left: 0px;
+top: 132px;
+
+background: #7A44A8;
+
+
+/* Group 98 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1381px;
+top: 149px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1381px;
+top: 149px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 96.11%;
+right: 2.64%;
+top: 14.84%;
+bottom: 83.4%;
+
+border: 3px solid #FFFFFF;
+
+
+/* Group 320 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 283px;
+top: 352px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 283px;
+top: 352px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 19.86%;
+right: 78.89%;
+top: 34.67%;
+bottom: 63.57%;
+
+border: 3px solid #FFFFFF;
+
+
+/* Arrow 2 */
+
+position: absolute;
+width: 57px;
+height: 57px;
+left: 26px;
+top: 38px;
+
+
+
+/* Box */
+
+position: absolute;
+width: 57px;
+height: 57px;
+left: 26px;
+top: 38px;
+
+
+
+/* Line */
+
+position: absolute;
+width: 17.81px;
+height: 35.62px;
+left: 43.81px;
+top: 48.69px;
+
+border: 7px solid #FFFFFF;
+
+
+/* logo GIFTOON 3 */
+
+position: absolute;
+width: 281px;
+height: 54px;
+left: 120px;
+top: 41px;
+
+background: url(logo GIFTOON.jpg);
+border-radius: 1px;
+
+
+/* Group 319 */
+
+position: absolute;
+width: 164px;
+height: 164px;
+left: 131px;
+top: 335px;
+
+
+
+/* Rectangle 142 */
+
+position: absolute;
+width: 164px;
+height: 164px;
+left: 131px;
+top: 335px;
+
+
+
+/* Group 310 */
+
+position: absolute;
+width: 136.67px;
+height: 136.67px;
+left: 144.67px;
+top: 348.67px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.05%;
+right: 80.46%;
+top: 34.05%;
+bottom: 52.6%;
+
+border: 6px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.37%;
+right: 83.78%;
+top: 36.72%;
+bottom: 57.94%;
+
+border: 6px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.69%;
+right: 82.2%;
+top: 44.04%;
+bottom: 53.96%;
+
+border: 6px solid #FFFFFF;
+
+
+/* Username */
+
+position: absolute;
+width: 273px;
+height: 61px;
+left: calc(50% - 273px/2 - 504.5px);
+top: 490px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 49px;
+line-height: 124.26%;
+/* identical to box height, or 61px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 143 */
+
+position: absolute;
+width: 836px;
+height: 529px;
+left: 543px;
+top: 456px;
+
+background: linear-gradient(114.54deg, #D54495 -7.32%, #DE34C7 109.25%);
+border-radius: 30px;
+
+
+/* Email: example@gmail.com */
+
+position: absolute;
+width: 468px;
+height: 40px;
+left: calc(50% - 468px/2 + 120px);
+top: 580px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 124.26%;
+/* identical to box height, or 40px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* contact: +01 12456789900 */
+
+position: absolute;
+width: 424px;
+height: 40px;
+left: calc(50% - 424px/2 + 98px);
+top: 645px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 124.26%;
+/* identical to box height, or 40px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* About Me: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu . */
+
+position: absolute;
+width: 709px;
+height: 212px;
+left: calc(50% - 709px/2 + 240.5px);
+top: 701px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 124.26%;
+/* or 40px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* About */
+
+position: absolute;
+width: 168px;
+height: 63px;
+left: calc(50% - 168px/2 - 38px);
+top: 487px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 51px;
+line-height: 124.26%;
+/* or 63px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Line 3 */
+
+position: absolute;
+width: 714px;
+height: 0px;
+left: 606px;
+top: 632px;
+
+border: 4px solid #FFFFFF;
+
+
+/* Line 4 */
+
+position: absolute;
+width: 714px;
+height: 0px;
+left: 606px;
+top: 632px;
+
+border: 4px solid #FFFFFF;
+
+
+/* Line 5 */
+
+position: absolute;
+width: 714px;
+height: 0px;
+left: 606px;
+top: 697px;
+
+border: 4px solid #FFFFFF;
+
+
+/* Line 6 */
+
+position: absolute;
+width: 714px;
+height: 0px;
+left: 606px;
+top: 927px;
+
+border: 4px solid #FFFFFF;
+
+
+/* Rectangle 145 */
+
+position: absolute;
+width: 118px;
+height: 28px;
+left: 1250px;
+top: 149px;
+
+background: #D24496;
+box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.32);
+border-radius: 12px;
+
+
+/* Banner */
+
+position: absolute;
+width: 102px;
+height: 28px;
+left: calc(50% - 102px/2 + 591px);
+top: 149px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 100%;
+/* identical to box height, or 28px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.05em;
+
+color: #FFFFFF;
+

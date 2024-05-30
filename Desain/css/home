@@ -1,0 +1,648 @@
+HOME
+
+/* Home */
+
+position: relative;
+width: 1440px;
+height: 1731px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 1440px;
+height: 1246px;
+left: -1px;
+top: 485px;
+
+background: linear-gradient(236.6deg, #50CBFF 25.76%, #008EFF 118.54%);
+
+
+/* picture7 1 */
+
+position: absolute;
+width: 1852.12px;
+height: 382px;
+left: -207px;
+top: 103px;
+
+background: url(picture7.jpg);
+
+
+/* logo GIFTOON 2 */
+
+position: absolute;
+width: 281px;
+height: 54px;
+left: 578.06px;
+top: 396px;
+
+background: url(logo GIFTOON.jpg);
+
+
+/* Menyatukan Kebaikan, Menyebarkan Harapan */
+
+position: absolute;
+width: 868px;
+height: 53px;
+left: 285.06px;
+top: 167px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 52px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Bersama, Kita Bisa Mengubah Dunia
+Setiap donasi yang Anda berikan membawa perubahan nyata bagi mereka yang membutuhkan. Bergabunglah dengan kami untuk menyebarkan harapan. */
+
+position: absolute;
+width: 668px;
+height: 132px;
+left: 385.06px;
+top: 237px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 33px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 1px 16.2px rgba(0, 0, 0, 0.52);
+
+
+/* Konten Artikel */
+
+position: absolute;
+width: 1327px;
+height: 876px;
+left: 56.06px;
+top: 611px;
+
+
+
+/* Bersama Kita Membuat Perbedaan: Mengapa Anda Harus Bergabung dengan Kami dalam Penggalangan Dana GIFTOON? */
+
+position: absolute;
+width: 358px;
+height: 150px;
+left: 56.06px;
+top: 619px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 124.26%;
+/* or 30px */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Mengapa GIFTOON? */
+
+position: absolute;
+width: 304px;
+height: 146px;
+left: 505.06px;
+top: 611px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 59px;
+line-height: 124.26%;
+/* or 73px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Di tengah-tengah tantangan yang dihadapi oleh masyarakat kita, ada satu hal yang tetap teguh: kekuatan solidaritas dan kebaikan manusia. Ini adalah saatnya untuk berdiri bersama dan memberikan bantuan kepada mereka yang membutuhkan. Inilah mengapa kami, GIFTOON, mengajak Anda untuk bergabung dalam misi kami untuk membuat perbedaan dalam kehidupan orang-orang di sekitar kita. */
+
+position: absolute;
+width: 369px;
+height: 325px;
+left: 56.06px;
+top: 791px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 124.26%;
+/* or 25px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* GIFTOON bukanlah sekadar platform donasi biasa. Kami adalah komunitas yang didedikasikan untuk memberikan dampak yang nyata. Dengan fokus pada transparansi, keberlanjutan, dan kepedulian, kami berkomitmen untuk menghadirkan perubahan positif dalam masyarakat. Setiap donasi yang Anda berikan memiliki arti besar, karena kami memastikan bahwa setiap dana yang terkumpul disalurkan dengan tepat sasaran dan efisien. */
+
+position: absolute;
+width: 329px;
+height: 425px;
+left: 492.06px;
+top: 791px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 124.26%;
+/* or 25px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Setiap donasi yang diterima oleh GIFTOON memiliki dampak yang nyata dalam kehidupan orang-orang di sekitar kita. Kisah Anisa, seorang ibu tunggal yang berhasil mendapatkan bantuan modal usaha dari GIFTOON, adalah salah satu contoh bagaimana donasi Anda dapat mengubah hidup seseorang. Dengan bantuan tersebut, Anisa dapat memulai usaha kecilnya sendiri dan meningkatkan taraf hidupnya. */
+
+position: absolute;
+width: 329px;
+height: 375px;
+left: 950.06px;
+top: 791px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 124.26%;
+/* or 25px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Anda juga dapat menjadi bagian dari perubahan ini. Bergabunglah dengan kami dalam penggalangan dana ini dan memberikan bantuan kepada mereka yang membutuhkan. Setiap donasi, baik besar maupun kecil, memiliki arti yang besar. Bersama-sama, kita bisa membuat perbedaan yang berarti dalam kehidupan orang-orang di sekitar kita. Jadi, apa yang Anda tunggu? Ayo bergabung dengan GIFTOON dalam misi kami untuk menyebarkan harapan dan kebaikan kepada semua. Bersama, kita bisa membuat dunia yang lebih baik. */
+
+position: absolute;
+width: 1043px;
+height: 150px;
+left: calc(50% - 1043px/2 - 38.44px);
+top: 1337px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 124.26%;
+/* or 25px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Bagaimana Anda Bisa Terlibat? */
+
+position: absolute;
+width: 632px;
+height: 48px;
+left: calc(50% - 632px/2 - 38.94px);
+top: 1265px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 39px;
+line-height: 124.26%;
+/* or 48px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Cerita Dari Penerima Manfaat */
+
+position: absolute;
+width: 483px;
+height: 122px;
+left: calc(50% - 483px/2 + 421.56px);
+top: 623px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 49px;
+line-height: 124.26%;
+/* or 61px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* footer */
+
+position: absolute;
+width: 1441px;
+height: 98px;
+left: -0.94px;
+top: 1633px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 1441px;
+height: 98px;
+left: -0.94px;
+top: 1633px;
+
+background: linear-gradient(90.68deg, #6043AD -23.71%, #DC4493 104.6%);
+
+
+/* Group 2 */
+
+position: absolute;
+width: 647.45px;
+height: 35px;
+left: 782.6px;
+top: 1664px;
+
+
+
+/* Social Icons */
+
+position: absolute;
+width: 32.02px;
+height: 32px;
+left: 1255.93px;
+top: 1666px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0.37%;
+
+background: #FFFFFF;
+
+
+/* GIFTOON */
+
+position: absolute;
+width: 141.1px;
+height: 35px;
+left: 1288.96px;
+top: 1664px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 124.26%;
+/* identical to box height, or 35px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* @giftoon_id */
+
+position: absolute;
+width: 207.14px;
+height: 35px;
+left: 1043.79px;
+top: 1664px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 124.26%;
+/* identical to box height, or 35px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* @giftoon_id */
+
+position: absolute;
+width: 207.14px;
+height: 35px;
+left: 805.62px;
+top: 1664px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 124.26%;
+/* identical to box height, or 35px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Social Icons */
+
+position: absolute;
+width: 32.02px;
+height: 32px;
+left: 1014.77px;
+top: 1666px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.06%;
+top: 0%;
+bottom: 0.02%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.32%;
+right: 24.32%;
+top: 24.32%;
+bottom: 24.32%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.7%;
+right: 17.3%;
+top: 17.3%;
+bottom: 70.7%;
+
+background: #FFFFFF;
+
+
+/* Social Icons */
+
+position: absolute;
+width: 32.02px;
+height: 32px;
+left: 782.6px;
+top: 1666px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 7.93%;
+bottom: 9.21%;
+
+background: #FFFFFF;
+
+
+/* Button Donasi */
+
+position: absolute;
+width: 281px;
+height: 64px;
+left: calc(50% - 281px/2 - 0.44px);
+top: 1535px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 281px;
+height: 64px;
+left: calc(50% - 281px/2 - 0.44px);
+top: 1535px;
+
+background: linear-gradient(268.7deg, #DF458F -3.92%, #51CCFF 94.37%);
+border-radius: 27px;
+
+
+/* Buka Donasi */
+
+position: absolute;
+width: 228px;
+height: 43px;
+left: calc(50% - 228px/2 - 0.94px);
+top: 1545px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 124.26%;
+/* or 43px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 1441px;
+height: 98px;
+left: -0.94px;
+top: 485px;
+
+background: linear-gradient(90.68deg, #6043AD -23.71%, #DC4493 104.6%);
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 1443px;
+height: 102px;
+left: -3px;
+top: 1px;
+
+background: linear-gradient(90.68deg, #6043AD -23.71%, #DC4493 104.6%);
+
+
+/* Beberapa tentang GIFTOON */
+
+position: absolute;
+width: 748px;
+height: 61px;
+left: calc(50% - 748px/2 - 320.94px);
+top: 503px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 49px;
+line-height: 124.26%;
+/* identical to box height, or 61px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* My Donations */
+
+position: absolute;
+left: 74.31%;
+right: 8.75%;
+top: 1.94%;
+bottom: 96.36%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 124.26%;
+/* or 43px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* See All Donations */
+
+position: absolute;
+left: 50.49%;
+right: 26.88%;
+top: 2.02%;
+bottom: 96.24%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 124.26%;
+/* or 43px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 319 */
+
+position: absolute;
+left: 93.4%;
+right: 2.57%;
+top: 1.17%;
+bottom: 95.48%;
+
+
+
+/* Rectangle 142 */
+
+position: absolute;
+left: 93.4%;
+right: 2.57%;
+top: 1.17%;
+bottom: 95.48%;
+
+
+
+/* Group 310 */
+
+position: absolute;
+left: 93.74%;
+right: 2.91%;
+top: 1.49%;
+bottom: 95.64%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 93.74%;
+right: 2.91%;
+top: 1.49%;
+bottom: 95.64%;
+
+border: 4px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.91%;
+right: 4.08%;
+top: 2.07%;
+bottom: 96.79%;
+
+border: 4px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.32%;
+right: 3.52%;
+top: 3.64%;
+bottom: 95.93%;
+
+border: 4px solid #FFFFFF;

@@ -1,0 +1,196 @@
+REGISTRASI
+
+/* Login */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* vector3 1 */
+
+position: absolute;
+width: 998px;
+height: 1102px;
+left: 0px;
+top: -39px;
+
+background: url(vector3.jpg);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 650px;
+height: 1024px;
+left: 861px;
+top: 0px;
+
+background: #6043AD;
+border-radius: 32px;
+
+
+/* Login */
+
+position: absolute;
+width: 255px;
+height: 86px;
+left: calc(50% - 255px/2 + 424.5px);
+top: 295px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 89px;
+line-height: 134px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Email */
+
+position: absolute;
+width: 87px;
+height: 48px;
+left: 958px;
+top: 496px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Password */
+
+position: absolute;
+width: 154px;
+height: 48px;
+left: 958px;
+top: 619px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Belum punya akun? Daftar sekarang */
+
+position: absolute;
+width: 292px;
+height: 24px;
+left: 958px;
+top: 697px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Line 1 */
+
+position: absolute;
+width: 395px;
+height: 0px;
+left: 947px;
+top: 555px;
+
+border: 4px solid #FFFFFF;
+
+
+/* Line 2 */
+
+position: absolute;
+width: 395px;
+height: 0px;
+left: 947px;
+top: 678px;
+
+border: 4px solid #FFFFFF;
+
+
+/* login button */
+
+position: absolute;
+width: 151px;
+height: 51px;
+left: 1075px;
+top: 751px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 151px;
+height: 51px;
+left: 1075px;
+top: 751px;
+
+background: linear-gradient(97.87deg, #E34689 0%, #AF39CB 108.69%);
+border-radius: 35px;
+
+
+/* Login */
+
+position: absolute;
+width: 85px;
+height: 48px;
+left: 1109px;
+top: 751px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* logo GIFTOON 3 */
+
+position: absolute;
+width: 281px;
+height: 54px;
+left: 1010px;
+top: 222px;
+
+background: url(logo GIFTOON.jpg);
