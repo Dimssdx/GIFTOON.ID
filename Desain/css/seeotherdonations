@@ -1,0 +1,851 @@
+see other doantion
+
+/* See Other Donations */
+
+position: relative;
+width: 1440px;
+height: 3538px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 148 */
+
+position: absolute;
+width: 1440px;
+height: 3677px;
+left: 0px;
+top: -17px;
+
+background: linear-gradient(236.6deg, #50CBFF 25.76%, #008EFF 118.54%);
+
+
+/* picture6 2 */
+
+position: absolute;
+width: 933px;
+height: 312px;
+left: 82px;
+top: 215px;
+
+background: url(picture6);
+border-radius: 34px;
+
+
+/* picture6 3 */
+
+position: absolute;
+width: 933px;
+height: 312px;
+left: 82px;
+top: 215px;
+
+background: url(picture6);
+border-radius: 34px;
+
+
+/* picture6 4 */
+
+position: absolute;
+width: 933px;
+height: 312px;
+left: 91px;
+top: 1317px;
+
+background: url(picture6);
+border-radius: 34px;
+
+
+/* picture6 5 */
+
+position: absolute;
+width: 933px;
+height: 312px;
+left: 100px;
+top: 2419px;
+
+background: url(picture6);
+border-radius: 34px;
+
+
+/* Panti Asuhan Takfi */
+
+position: absolute;
+width: 280px;
+height: 36px;
+left: calc(50% - 280px/2 - 489px);
+top: 537px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 124.26%;
+/* identical to box height, or 36px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Panti Asuhan Takfi */
+
+position: absolute;
+width: 280px;
+height: 36px;
+left: calc(50% - 280px/2 - 489px);
+top: 537px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 124.26%;
+/* identical to box height, or 36px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Panti Asuhan Takfi */
+
+position: absolute;
+width: 280px;
+height: 36px;
+left: calc(50% - 280px/2 - 480px);
+top: 1639px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 124.26%;
+/* identical to box height, or 36px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Panti Asuhan Takfi */
+
+position: absolute;
+width: 280px;
+height: 36px;
+left: calc(50% - 280px/2 - 471px);
+top: 2741px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 124.26%;
+/* identical to box height, or 36px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Korban Tanah Longsor */
+
+position: absolute;
+width: 339px;
+height: 36px;
+left: calc(50% - 339px/2 - 459.5px);
+top: 1089px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 124.26%;
+/* identical to box height, or 36px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Korban Tanah Longsor */
+
+position: absolute;
+width: 339px;
+height: 36px;
+left: calc(50% - 339px/2 - 459.5px);
+top: 1089px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 124.26%;
+/* identical to box height, or 36px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Korban Tanah Longsor */
+
+position: absolute;
+width: 339px;
+height: 36px;
+left: calc(50% - 339px/2 - 450.5px);
+top: 2191px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 124.26%;
+/* identical to box height, or 36px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Korban Tanah Longsor */
+
+position: absolute;
+width: 339px;
+height: 36px;
+left: calc(50% - 339px/2 - 441.5px);
+top: 3293px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 124.26%;
+/* identical to box height, or 36px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit . */
+
+position: absolute;
+width: 924px;
+height: 125px;
+left: calc(50% - 924px/2 - 167px);
+top: 583px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 124.26%;
+/* or 25px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit . */
+
+position: absolute;
+width: 924px;
+height: 125px;
+left: calc(50% - 924px/2 - 167px);
+top: 583px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 124.26%;
+/* or 25px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit . */
+
+position: absolute;
+width: 924px;
+height: 125px;
+left: calc(50% - 924px/2 - 158px);
+top: 1685px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 124.26%;
+/* or 25px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit . */
+
+position: absolute;
+width: 924px;
+height: 125px;
+left: calc(50% - 924px/2 - 149px);
+top: 2787px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 124.26%;
+/* or 25px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit . */
+
+position: absolute;
+width: 924px;
+height: 125px;
+left: calc(50% - 924px/2 - 167px);
+top: 1127px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 124.26%;
+/* or 25px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit . */
+
+position: absolute;
+width: 924px;
+height: 125px;
+left: calc(50% - 924px/2 - 158px);
+top: 2229px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 124.26%;
+/* or 25px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit . */
+
+position: absolute;
+width: 924px;
+height: 125px;
+left: calc(50% - 924px/2 - 149px);
+top: 3331px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 124.26%;
+/* or 25px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Terkumpul */
+
+position: absolute;
+width: 134px;
+height: 27px;
+left: calc(50% - 134px/2 - 562px);
+top: 718px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 124.26%;
+/* or 27px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Terkumpul */
+
+position: absolute;
+width: 134px;
+height: 27px;
+left: calc(50% - 134px/2 - 562px);
+top: 718px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 124.26%;
+/* or 27px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Terkumpul */
+
+position: absolute;
+width: 134px;
+height: 27px;
+left: calc(50% - 134px/2 - 553px);
+top: 1820px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 124.26%;
+/* or 27px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Terkumpul */
+
+position: absolute;
+width: 134px;
+height: 27px;
+left: calc(50% - 134px/2 - 544px);
+top: 2922px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 124.26%;
+/* or 27px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Terkumpul */
+
+position: absolute;
+width: 134px;
+height: 27px;
+left: calc(50% - 134px/2 - 562px);
+top: 1261px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 124.26%;
+/* or 27px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Terkumpul */
+
+position: absolute;
+width: 134px;
+height: 27px;
+left: calc(50% - 134px/2 - 562px);
+top: 1261px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 124.26%;
+/* or 27px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Terkumpul */
+
+position: absolute;
+width: 134px;
+height: 27px;
+left: calc(50% - 134px/2 - 553px);
+top: 2363px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 124.26%;
+/* or 27px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Terkumpul */
+
+position: absolute;
+width: 134px;
+height: 27px;
+left: calc(50% - 134px/2 - 544px);
+top: 3465px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 124.26%;
+/* or 27px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Rp 240.000 */
+
+position: absolute;
+width: 134px;
+height: 27px;
+left: calc(50% - 134px/2 + 237px);
+top: 725px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 124.26%;
+/* or 27px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Rp 240.000 */
+
+position: absolute;
+width: 134px;
+height: 27px;
+left: calc(50% - 134px/2 + 237px);
+top: 1267px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 124.26%;
+/* or 27px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Rp 240.000 */
+
+position: absolute;
+width: 134px;
+height: 27px;
+left: calc(50% - 134px/2 + 237px);
+top: 1267px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 124.26%;
+/* or 27px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Rp 240.000 */
+
+position: absolute;
+width: 134px;
+height: 27px;
+left: calc(50% - 134px/2 + 246px);
+top: 2369px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 124.26%;
+/* or 27px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Rp 240.000 */
+
+position: absolute;
+width: 134px;
+height: 27px;
+left: calc(50% - 134px/2 + 255px);
+top: 3471px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 124.26%;
+/* or 27px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* picture3 2 */
+
+position: absolute;
+width: 924px;
+height: 306px;
+left: 91px;
+top: 768px;
+
+background: url(picture3);
+border-radius: 20px;
+
+
+/* picture3 3 */
+
+position: absolute;
+width: 924px;
+height: 306px;
+left: 91px;
+top: 768px;
+
+background: url(picture3);
+border-radius: 20px;
+
+
+/* picture3 4 */
+
+position: absolute;
+width: 924px;
+height: 306px;
+left: 100px;
+top: 1870px;
+
+background: url(picture3);
+border-radius: 20px;
+
+
+/* picture3 5 */
+
+position: absolute;
+width: 924px;
+height: 306px;
+left: 109px;
+top: 2972px;
+
+background: url(picture3);
+border-radius: 20px;
+
+
+/* Arrow 4 */
+
+position: absolute;
+width: 57px;
+height: 57px;
+left: 48px;
+top: 40px;
+
+
+
+/* Box */
+
+position: absolute;
+width: 57px;
+height: 57px;
+left: 48px;
+top: 40px;
+
+
+
+/* Line */
+
+position: absolute;
+width: 17.81px;
+height: 35.62px;
+left: 65.81px;
+top: 50.69px;
+
+border: 7px solid #FFFFFF;
+
+
+/* logo GIFTOON 5 */
+
+position: absolute;
+width: 281px;
+height: 54px;
+left: 142px;
+top: 43px;
+
+background: url(logo GIFTOON.jpg);
+border-radius: 1px;
+
+
+/* Rectangle 151 */
+
+position: absolute;
+width: 1441px;
+height: 125px;
+left: calc(50% - 1441px/2 + 0.5px);
+top: 0px;
+
+background: linear-gradient(90.68deg, #6043AD -23.71%, #DC4493 104.6%);
+
+
+/* Arrow 5 */
+
+position: absolute;
+width: 57px;
+height: 57px;
+left: 66px;
+top: 34px;
+
+
+
+/* Box */
+
+position: absolute;
+width: 57px;
+height: 57px;
+left: 66px;
+top: 34px;
+
+
+
+/* Line */
+
+position: absolute;
+width: 17.81px;
+height: 35.62px;
+left: 83.81px;
+top: 44.69px;
+
+border: 7px solid #FFFFFF;
+
+
+/* logo GIFTOON 6 */
+
+position: absolute;
+width: 281px;
+height: 54px;
+left: 160px;
+top: 35px;
+
+background: url(logo GIFTOON.jpg);
+border-radius: 1px;
+
+
+/* Donations */
+
+position: absolute;
+width: 333px;
+height: 76px;
+left: calc(50% - 333px/2 + 504.5px);
+top: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 61px;
+line-height: 124.26%;
+/* identical to box height, or 76px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+

@@ -1,0 +1,316 @@
+my donation 
+
+/* My Donation */
+
+position: relative;
+width: 1440px;
+height: 1309px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 147 */
+
+position: absolute;
+width: 1440px;
+height: 1481px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(236.6deg, #50CBFF 25.76%, #008EFF 118.54%);
+
+
+/* Rectangle 150 */
+
+position: absolute;
+width: 1441px;
+height: 125px;
+left: calc(50% - 1441px/2 + 0.5px);
+top: -4px;
+
+background: linear-gradient(90.68deg, #6043AD -23.71%, #DC4493 104.6%);
+
+
+/* Arrow 3 */
+
+position: absolute;
+width: 57px;
+height: 57px;
+left: 39px;
+top: 42px;
+
+
+
+/* Box */
+
+position: absolute;
+width: 57px;
+height: 57px;
+left: 39px;
+top: 42px;
+
+
+
+/* My Donations */
+
+position: absolute;
+width: 435px;
+height: 76px;
+left: calc(50% - 435px/2 + 448.5px);
+top: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 61px;
+line-height: 124.26%;
+/* identical to box height, or 76px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* picture6 1 */
+
+position: absolute;
+width: 933px;
+height: 312px;
+left: 66px;
+top: 210px;
+
+background: url(picture6);
+border-radius: 34px;
+
+
+/* Panti Asuhan Takfi */
+
+position: absolute;
+width: 280px;
+height: 36px;
+left: calc(50% - 280px/2 - 505px);
+top: 543px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 124.26%;
+/* identical to box height, or 36px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Korban Tanah Longsor */
+
+position: absolute;
+width: 339px;
+height: 36px;
+left: calc(50% - 339px/2 - 475.5px);
+top: 1083px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 124.26%;
+/* identical to box height, or 36px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit . */
+
+position: absolute;
+width: 924px;
+height: 125px;
+left: calc(50% - 924px/2 - 183px);
+top: 579px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 124.26%;
+/* or 25px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit . */
+
+position: absolute;
+width: 924px;
+height: 125px;
+left: calc(50% - 924px/2 - 183px);
+top: 1121px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 124.26%;
+/* or 25px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Terkumpul */
+
+position: absolute;
+width: 134px;
+height: 27px;
+left: calc(50% - 134px/2 - 578px);
+top: 713px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 124.26%;
+/* or 27px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Terkumpul */
+
+position: absolute;
+width: 134px;
+height: 27px;
+left: calc(50% - 134px/2 - 578px);
+top: 1255px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 124.26%;
+/* or 27px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Rp 240.000 */
+
+position: absolute;
+width: 134px;
+height: 27px;
+left: calc(50% - 134px/2 + 221px);
+top: 719px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 124.26%;
+/* or 27px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Rp 240.000 */
+
+position: absolute;
+width: 134px;
+height: 27px;
+left: calc(50% - 134px/2 + 221px);
+top: 1261px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 124.26%;
+/* or 27px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* picture3 1 */
+
+position: absolute;
+width: 924px;
+height: 306px;
+left: 75px;
+top: 762px;
+
+background: url(picture3);
+border-radius: 20px;
+
+
+/* Arrow 4 */
+
+position: absolute;
+width: 57px;
+height: 57px;
+left: 66px;
+top: 30px;
+
+
+
+/* Box */
+
+position: absolute;
+width: 57px;
+height: 57px;
+left: 66px;
+top: 30px;
+
+
+
+/* Line */
+
+position: absolute;
+width: 17.81px;
+height: 35.62px;
+left: 83.81px;
+top: 40.69px;
+
+border: 7px solid #FFFFFF;
+
+
+/* logo GIFTOON 5 */
+
+position: absolute;
+width: 281px;
+height: 54px;
+left: 160px;
+top: 31px;
+
+background: url(logo GIFTOON.jpg);
+border-radius: 1px;

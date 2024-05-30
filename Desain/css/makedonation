@@ -1,0 +1,399 @@
+make a donation
+
+/* Make a Donation */
+
+position: relative;
+width: 1440px;
+height: 1351px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 149 */
+
+position: absolute;
+width: 1440px;
+height: 1351px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(236.6deg, #50CBFF 25.76%, #008EFF 118.54%);
+
+
+/* Arrow 5 */
+
+position: absolute;
+width: 57px;
+height: 57px;
+left: 48px;
+top: 45px;
+
+
+
+/* Box */
+
+position: absolute;
+width: 57px;
+height: 57px;
+left: 48px;
+top: 45px;
+
+
+
+/* Line */
+
+position: absolute;
+width: 17.81px;
+height: 35.62px;
+left: 65.81px;
+top: 55.69px;
+
+border: 7px solid #FFFFFF;
+
+
+/* Rectangle 150 */
+
+position: absolute;
+width: 933px;
+height: 334px;
+left: 104px;
+top: 673px;
+
+background: linear-gradient(98.18deg, #7944A8 -0.68%, #D54495 103.43%);
+border-radius: 20px;
+
+
+/* Rectangle 152 */
+
+position: absolute;
+width: 933px;
+height: 79px;
+left: 104px;
+top: 1028px;
+
+background: linear-gradient(98.18deg, #7944A8 -0.68%, #D54495 103.43%);
+border-radius: 20px;
+
+
+/* Rectangle 153 */
+
+position: absolute;
+width: 933px;
+height: 79px;
+left: 102px;
+top: 1128px;
+
+background: linear-gradient(98.18deg, #7944A8 -0.68%, #D54495 103.43%);
+border-radius: 20px;
+
+
+/* Rectangle 151 */
+
+position: absolute;
+width: 571px;
+height: 68px;
+left: 104px;
+top: 564px;
+
+background: linear-gradient(98.18deg, #7944A8 -0.68%, #D54495 103.43%);
+border-radius: 20px;
+
+
+/* logo GIFTOON 6 */
+
+position: absolute;
+width: 281px;
+height: 54px;
+left: 142px;
+top: 48px;
+
+background: url(logo GIFTOON.jpg);
+border-radius: 1px;
+
+
+/* Judul : */
+
+position: absolute;
+width: 127px;
+height: 42px;
+left: calc(50% - 127px/2 - 540.5px);
+top: 577px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 124.26%;
+/* or 42px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Keterangan : */
+
+position: absolute;
+width: 229px;
+height: 42px;
+left: calc(50% - 229px/2 - 485.5px);
+top: 691px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 124.26%;
+/* or 42px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Button Donasi */
+
+position: absolute;
+width: 304.51px;
+height: 64px;
+left: calc(50% - 304.51px/2 + 500.25px);
+top: 1207px;
+
+/* drop shadow */
+filter: drop-shadow(0px 0px 47.7px rgba(0, 0, 0, 0.15));
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 298.93px;
+height: 64px;
+left: calc(50% - 298.93px/2 + 500.17px);
+top: 1207px;
+
+background: linear-gradient(268.7deg, #DF458F -3.92%, #51CCFF 94.37%);
+border-radius: 27px;
+
+
+/* Berikan Donasi */
+
+position: absolute;
+width: 304.51px;
+height: 43px;
+left: calc(50% - 304.51px/2 + 500.25px);
+top: 1217px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 124.26%;
+/* or 43px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* picture6 2 */
+
+position: absolute;
+width: 933px;
+height: 312px;
+left: 104px;
+top: 211px;
+
+background: url(picture6);
+border-radius: 34px;
+
+
+/* Panti Asuhan Takfi */
+
+position: absolute;
+width: 329px;
+height: 42px;
+left: calc(50% - 329px/2 - 297.5px);
+top: 577px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 124.26%;
+/* or 42px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit . */
+
+position: absolute;
+width: 885px;
+height: 210px;
+left: calc(50% - 885px/2 - 157.5px);
+top: 738px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 124.26%;
+/* or 30px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Uang Terkumpul */
+
+position: absolute;
+width: 289px;
+height: 40px;
+left: calc(50% - 289px/2 - 455.5px);
+top: 1047px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 124.26%;
+/* identical to box height, or 40px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Isi Nominal */
+
+position: absolute;
+width: 185px;
+height: 40px;
+left: calc(50% - 185px/2 - 509.5px);
+top: 1147px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 124.26%;
+/* identical to box height, or 40px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rp 240.000 */
+
+position: absolute;
+width: 186px;
+height: 40px;
+left: calc(50% - 186px/2 + 196px);
+top: 1047px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 124.26%;
+/* identical to box height, or 40px */
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 151 */
+
+position: absolute;
+width: 1441px;
+height: 125px;
+left: calc(50% - 1441px/2 + 0.5px);
+top: -1px;
+
+background: linear-gradient(90.68deg, #6043AD -23.71%, #DC4493 104.6%);
+
+
+/* Arrow 5 */
+
+position: absolute;
+width: 57px;
+height: 57px;
+left: 66px;
+top: 33px;
+
+
+
+/* Box */
+
+position: absolute;
+width: 57px;
+height: 57px;
+left: 66px;
+top: 33px;
+
+
+
+/* Line */
+
+position: absolute;
+width: 17.81px;
+height: 35.62px;
+left: 83.81px;
+top: 43.69px;
+
+border: 7px solid #FFFFFF;
+
+
+/* logo GIFTOON 6 */
+
+position: absolute;
+width: 281px;
+height: 54px;
+left: 160px;
+top: 34px;
+
+background: url(logo GIFTOON.jpg);
+border-radius: 1px;
+
+
+/* Make a Donation */
+
+position: absolute;
+width: 535px;
+height: 76px;
+left: calc(50% - 535px/2 + 414.5px);
+top: 23px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 61px;
+line-height: 124.26%;
+/* identical to box height, or 76px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
