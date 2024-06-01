@@ -1,0 +1,234 @@
+.make-adonation .container {
+    position: relative;
+    margin-bottom: 87px;
+    display: flex;
+    width: 1441px;
+    box-sizing: border-box;
+  }
+  .make-adonation .container-1 {
+    background: linear-gradient(270.68deg, #6043AD 123.7%, #DC4493 204.6%);
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 24px 42.3px 25px 83.8px;
+    width: 1441px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .make-adonation .container-2 {
+    margin: 11px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 357.2px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .make-adonation .container-3 {
+    border-radius: 20px;
+    background: linear-gradient(278.18deg, #7944A8 100.7%, #D54495 203.4%);
+    position: relative;
+    margin: 0 104px 41px 104px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    padding: 13px 0 13px 17.8px;
+    width: 571px;
+    box-sizing: border-box;
+  }
+  .make-adonation {
+    background: #FFFFFF;
+    display: flex;
+    padding-bottom: 80px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .make-adonation .rectangle-149 {
+    background: linear-gradient(56.6deg, #50CBFF 74.2%, #008EFF 218.58%);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 100%;
+  }
+  .make-adonation .arrow-5 {
+    position: absolute;
+    left: 65.8px;
+    top: 55.7px;
+    display: flex;
+    width: 17.8px;
+    height: 35.6px;
+    box-sizing: border-box;
+  }
+  .make-adonation .line {
+    width: 17.8px;
+    height: 35.6px;
+  }
+  .make-adonation .logo-giftoon-6 {
+    border-radius: 1px;
+    background: url('../assets/images/logo_giftoon_6.jpeg');
+    position: absolute;
+    left: 142px;
+    bottom: 22px;
+    width: 281px;
+    height: 54px;
+  }
+  .make-adonation .judul {
+    margin-right: 21.4px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .make-adonation .keterangan {
+    margin: 0 1.6px 5px 1.6px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .make-adonation .button-donasi {
+    border-radius: 27px;
+    background: linear-gradient(268.7deg, #DF458F -3.9%, #51CCFF 94.4%);
+    position: relative;
+    margin: 0 71.4px;
+    display: flex;
+    align-self: flex-end;
+    padding: 10px 16px 11px 16.2px;
+    box-sizing: border-box;
+  }
+  .make-adonation .berikan-donasi {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .make-adonation .picture-62 {
+    border-radius: 34px;
+    background: url('../assets/images/picture_62.jpeg');
+    margin: 0 104px 41px 104px;
+    align-self: flex-start;
+    width: 933px;
+    height: 312px;
+  }
+  .make-adonation .panti-asuhan-takfi {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .make-adonation .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat-duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit {
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .make-adonation .uang-terkumpul {
+    margin-right: 20px;
+    width: 675.8px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .make-adonation .rp-240000 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .make-adonation .arrow-51 {
+    margin: 9.7px 0 8.7px 0;
+    display: flex;
+    width: 17.8px;
+    height: 35.6px;
+    box-sizing: border-box;
+  }
+  .make-adonation .line-1 {
+    width: 17.8px;
+    height: 35.6px;
+  }
+  .make-adonation .logo-giftoon-61 {
+    border-radius: 1px;
+    background: url('../assets/images/logo_giftoon_6.jpeg');
+    width: 281px;
+    height: 54px;
+  }
+  .make-adonation .make-adonation-1 {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 61px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .make-adonation .isi-nominal {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .make-adonation .container-4 {
+    border-radius: 20px;
+    background: linear-gradient(278.18deg, #7944A8 100.7%, #D54495 203.4%);
+    position: relative;
+    margin: 0 104px 21px 104px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    padding: 19px 32.2px 20px 23.2px;
+    width: 933px;
+    box-sizing: border-box;
+  }
+  .make-adonation .container-5 {
+    border-radius: 20px;
+    background: linear-gradient(278.18deg, #7944A8 100.7%, #D54495 203.4%);
+    position: relative;
+    margin: 0 102px;
+    align-self: flex-start;
+    padding: 19px 16.5px 20px 16.5px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .make-adonation .container-6 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 1441px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .make-adonation .container-7 {
+    border-radius: 20px;
+    background: linear-gradient(278.18deg, #7944A8 100.7%, #D54495 203.4%);
+    position: relative;
+    margin: 0 104px 21px 104px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    padding: 18px 47.9px 59px 16px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
