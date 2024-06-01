@@ -1,3 +1,127 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    color: #fff;
+    margin-top: 3px;
+    margin-bottom: 2px;
+    text-align: center;
+}
+
+.hero {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.hero img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.background {
+    background-color: #6f00d7;
+    color: #fff;
+    padding: 1rem 2rem;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 1rem;
+}
+
+.hero-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.22);
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+main {
+    padding: 2rem;
+}
+
+.about-giftoon {
+    color: #fff;
+    padding: 2rem;
+    border-radius: 3px;
+}
+
+.about-columns {
+    display: flex;
+    justify-content: space-between;
+}
+
+.how-columns {
+    display: flex;
+    justify-content: space-between;
+}
+.about-columns .column {
+    width: 30%;
+    background-color: rgba(70, 70, 70, 0.547);
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.how-columns .column {
+    width: 24%;
+    background-color: rgba(70, 70, 70, 0.547);
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.get-involved {
+    color: #fff;
+    padding: 2rem;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 2rem;
+}
+
+.donate-button {
+    justify-content: center;
+    background-color: #00bfff;
+    color: #fff;
+    padding: 1rem 2rem;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 1rem;
+}
+
+footer {
+    background-color: #6c48a9;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    width: 100vw;
+    position: absolute;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+}
+
+footer .social-media {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0%;
+}
+
+footer .social-media a {
+    color: #fff;
+    margin: 0 1rem;
+    text-decoration: none;
+}
