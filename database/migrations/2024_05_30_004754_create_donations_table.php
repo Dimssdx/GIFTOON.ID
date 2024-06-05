@@ -1,6 +1,5 @@
 <?php
 
-use App\Models\User;
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
@@ -12,14 +11,8 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('donasis', function (Blueprint $table) {
+        Schema::create('donations', function (Blueprint $table) {
             $table->id();
-            $table->string("gambar");
-            $table->string("keterangan_donasi");
-            $table->int("jumlah_uang");
-            $table->string("nama_donasi");
-            $table->foreignIdFor(User::class);
-            $table->boolean("selesai");
             $table->timestamps();
         });
     }
@@ -29,6 +22,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('donasis');
+        Schema::dropIfExists('donations');
     }
 };
