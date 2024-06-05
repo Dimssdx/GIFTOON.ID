@@ -19,7 +19,7 @@
                         {{ __('How It Works?') }}
                     </x-nav-link>
                 <div class="hidden space-x-3 sm:-my-px sm:ms-10 sm:flex">
-                    <x-nav-link :href="route('alldonations')" :active="request()->routeIs('dashboard')">
+                    <x-nav-link :href="route('donasis.index')" :active="request()->routeIs('dashboard')">
                         {{ __('See All Donation') }}
                     </x-nav-link>
                 </div>

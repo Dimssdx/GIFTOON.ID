@@ -1,5 +1,4 @@
 <x-app-layout>
-
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,20 +13,19 @@
                 <h1 class="text-white text-2xl font-bold">My Donations</h1>
             </header>
             <main class="mt-4 space-y-4">
-                <!-- Repeat this block for each user donation -->
+                @foreach($mydonasis as $donasi)
                 <div class="bg-white rounded-lg shadow-md overflow-hidden">
-                    <img class="w-full h-48 object-cover" src="image-placeholder.jpg" alt="Donation Image">
+                    <img class="w-full h-48 object-cover" src="{{ asset('images/' . $donasi->gambar) }}" alt="Donation Image">
                     <div class="p-4">
-                        <h2 class="text-xl font-bold mb-2">Panti Asuhan Takfi</h2>
-                        <p class="text-gray-700 mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
-                        <p class="font-bold text-right text-gray-700">Terkumpul Rp 240.000</p>
+                        <h2 class="text-xl font-bold mb-2">{{ $donasi->nama_donasi }}</h2>
+                        <p class="text-gray-700 mb-4">{{ $donasi->keterangan_donasi }}</p>
+                        <p class="font-bold text-right text-gray-700">RP. {{ $donasi->jumlah_uang }}</p>
+                        <p class="font-bold text-right text-gray-700">Status: {{ $donasi->selesai ? 'Selesai' : 'Belum Selesai' }}</p>
                     </div>
+                    <a href="{{ route('donasis.edit', $donasi->id) }}" class="text-blue-500 hover:text-blue-700">Lihat</a>
                 </div>
-                <!-- End of donation block -->
+                @endforeach
             </main>
         </div>
     </body>
-
-    </html>
-
 </x-app-layout>
