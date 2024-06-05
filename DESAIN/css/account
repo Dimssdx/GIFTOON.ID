@@ -1,0 +1,243 @@
+.account {
+    background: #FFFFFF;
+    display: flex;
+    padding: 41px 0 38px 0;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .account .rectangle-6 {
+    background: linear-gradient(56.6deg, #50CBFF 74.2%, #008EFF 218.58%);
+    position: absolute;
+    left: 50%;
+    top: -16px;
+    translate: -50% 0;
+    width: 1440px;
+    height: 1138px;
+  }
+  .account .arrow-2 {
+    margin: 7.7px 0 10.7px 0;
+    display: flex;
+    width: 17.8px;
+    height: 35.6px;
+    box-sizing: border-box;
+  }
+  .account .line {
+    width: 17.8px;
+    height: 35.6px;
+  }
+  .account .logo-giftoon-3 {
+    border-radius: 1px;
+    background: url('../assets/images/logo_giftoon_6.jpeg');
+    width: 281px;
+    height: 54px;
+  }
+  .account .group-310 {
+    position: absolute;
+    left: 148px;
+    top: 350px;
+    width: 136.7px;
+    height: 136.7px;
+  }
+  .account .username {
+    margin: 34px 198.5px 434px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 49px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .account .email-examplegmail-com {
+    margin: 0 7.3px 12px 7.3px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .account .about {
+    margin-bottom: 30px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 51px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .account .line-3 {
+    background: #FFFFFF;
+    margin: 0 0 9px 2.6px;
+    width: 714px;
+    height: 4px;
+  }
+  .account .line-4 {
+    background: #FFFFFF;
+    position: absolute;
+    left: 63px;
+    top: 176px;
+    right: 59px;
+    height: 4px;
+  }
+  .account .contact-0112456789900 {
+    margin: 0 6.7px;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .account .line-5 {
+    background: #FFFFFF;
+    position: absolute;
+    left: 63px;
+    top: 241px;
+    right: 59px;
+    height: 4px;
+  }
+  .about-me-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat-duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit-esse-cillum-dolore-eu {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.333;
+  }
+  .account .about-me-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat-duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit-esse-cillum-dolore-eu {
+    position: absolute;
+    left: 63px;
+    bottom: 50px;
+    text-align: justify;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .account .line-6 {
+    background: #FFFFFF;
+    position: absolute;
+    left: 63px;
+    right: 59px;
+    bottom: 54px;
+    height: 4px;
+  }
+  .account .group-98 {
+    margin-top: 219px;
+    display: flex;
+    width: 18px;
+    height: 18px;
+    box-sizing: border-box;
+  }
+  .account .vector-3 {
+    width: 18px;
+    height: 18px;
+  }
+  .account .banner {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 28px;
+    letter-spacing: -1.4px;
+    line-height: 1;
+    color: #FFFFFF;
+  }
+  .account .group-320 {
+    margin: 7px 0 3px 0;
+    display: flex;
+    width: 18px;
+    height: 18px;
+    box-sizing: border-box;
+  }
+  .account .vector-4 {
+    width: 18px;
+    height: 18px;
+  }
+  .account .container {
+    box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.32);
+    border-radius: 12px;
+    background: #D24496;
+    position: relative;
+    margin-right: 14px;
+    display: flex;
+    padding: 0 9.2px 0 13.2px;
+    box-sizing: border-box;
+  }
+  .account .container-1 {
+    background: #7A44A8;
+    position: relative;
+    margin-bottom: 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 17px 40px 35px 0;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .account .container-2 {
+    margin-bottom: 209px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .account .container-3 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .account .button-donasi {
+    border-radius: 27px;
+    background: linear-gradient(268.7deg, #DF458F -3.9%, #51CCFF 94.4%);
+    position: relative;
+    margin: 0 61px;
+    display: flex;
+    align-self: flex-end;
+    padding: 10px 16.6px 11px 16px;
+    box-sizing: border-box;
+  }
+  .account .simpan {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .account .container-4 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .account .container-5 {
+    margin: 0 43.8px 37px 43.8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    width: 357.2px;
+    box-sizing: border-box;
+  }
+  .account .container-6 {
+    margin: 0 61px 35px 86.5px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .account .container-7 {
+    border-radius: 30px;
+    background: linear-gradient(294.54deg, #D54495 107.3%, #DE34C7 209.3%);
+    position: relative;
+    display: flex;
+    padding: 31px 59px 0 60.4px;
+    height: 529px;
+    box-sizing: border-box;
+  }
