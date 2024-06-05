@@ -1,0 +1,175 @@
+.create-donation .container {
+    border-radius: 34px;
+    background: #DADADA;
+    position: relative;
+    margin: 0 105px 42px 105px;
+    display: flex;
+    align-self: flex-start;
+    padding: 103.3px 0 103.3px 1px;
+    width: 933px;
+    height: 312px;
+    box-sizing: border-box;
+  }
+  .create-donation {
+    background: #FFFFFF;
+    display: flex;
+    padding-bottom: 60px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .create-donation .rectangle-149 {
+    background: linear-gradient(56.6deg, #50CBFF 74.2%, #008EFF 218.58%);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 100%;
+  }
+  .create-donation .container-1 {
+    margin: 11px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 357.2px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .create-donation .container-2 {
+    background: linear-gradient(270.68deg, #6043AD 123.7%, #DC4493 204.6%);
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 24px 23.4px 25px 83.8px;
+    width: 1441px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .create-donation .keterangan {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .create-donation .group-149 {
+    display: flex;
+    width: 131.7px;
+    height: 105.3px;
+    box-sizing: border-box;
+  }
+  .create-donation .group-132 {
+    width: 131.7px;
+    height: 105.3px;
+  }
+  .create-donation .button-donasi {
+    border-radius: 27px;
+    background: linear-gradient(268.7deg, #DF458F -3.9%, #51CCFF 94.4%);
+    position: relative;
+    margin: 0 80px;
+    display: flex;
+    align-self: flex-end;
+    padding: 10px 1px 11px 0;
+    width: 281px;
+    box-sizing: border-box;
+  }
+  .create-donation .buka-donasi {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .create-donation .arrow-5 {
+    position: absolute;
+    left: 65.8px;
+    top: 55.7px;
+    display: flex;
+    width: 17.8px;
+    height: 35.6px;
+    box-sizing: border-box;
+  }
+  .create-donation .line {
+    width: 17.8px;
+    height: 35.6px;
+  }
+  .create-donation .logo-giftoon-6 {
+    border-radius: 1px;
+    background: url('../assets/images/logo_giftoon_6.jpeg');
+    position: absolute;
+    left: 142px;
+    bottom: 23px;
+    width: 281px;
+    height: 54px;
+  }
+  .create-donation .create-donatios {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 61px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .create-donation .judul {
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 1.243;
+    color: #FFFFFF;
+  }
+  .create-donation .arrow-6 {
+    margin: 9.7px 0 8.7px 0;
+    display: flex;
+    width: 17.8px;
+    height: 35.6px;
+    box-sizing: border-box;
+  }
+  .create-donation .line-1 {
+    width: 17.8px;
+    height: 35.6px;
+  }
+  .create-donation .logo-giftoon-7 {
+    border-radius: 1px;
+    background: url('../assets/images/logo_giftoon_6.jpeg');
+    width: 281px;
+    height: 54px;
+  }
+  .create-donation .container-3 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 1441px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .create-donation .container-4 {
+    border-radius: 20px;
+    background: linear-gradient(278.18deg, #7944A8 100.7%, #D54495 203.4%);
+    position: relative;
+    margin: 0 104px 44px 104px;
+    align-self: flex-start;
+    padding: 18px 17.6px 274px 17.6px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .create-donation .container-5 {
+    position: relative;
+    margin-bottom: 85px;
+    display: flex;
+    width: 1441px;
+    box-sizing: border-box;
+  }
+  .create-donation .container-6 {
+    border-radius: 20px;
+    background: linear-gradient(278.18deg, #7944A8 100.7%, #D54495 203.4%);
+    position: relative;
+    margin: 0 111px 41px 111px;
+    align-self: flex-start;
+    padding: 13px 10.8px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
