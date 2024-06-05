@@ -42,12 +42,13 @@
             </section>
         </main>
         <footer>
-            <div class="social-media">
-                <a href="#">&#64;giftoon_id</a>
-                <a href="#">&#64;giftoon_id</a>
-                <a href="#">GIFTOON</a>
-                <p>&copy; 2024 GIFTOON</p>
+            <div class="social-media flex justify-center items-center bg-gradient-to-r from-purple-500 to-pink-500 p-4">
+                <a href="#" class="mx-2 text-white text-lg">&#64;giftoon_id</a>
+                <a href="#" class="mx-2 text-white text-lg">&#64;giftoon_id</a>
+                <a href="#" class="mx-2 text-white text-lg">GIFTOON</a>
+                <p class="text-white text-lg ml-4">&copy; 2024 GIFTOON</p>
             </div>
         </footer>
+
     </body>
 </x-app-layout>
