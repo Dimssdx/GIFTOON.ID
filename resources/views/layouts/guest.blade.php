@@ -1,3 +1,5 @@
+@props(['formTitle' => null])
+
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
@@ -24,7 +26,7 @@
         </div>
         <div class="w-full h-screen sm:max-w-md mt-6 px-6 py-4 bg-[#6043AD] shadow-md overflow-hidden sm:rounded-lg">
             <img class="mx-auto pt-36 pb-11" src="/img/logo GIFTOON.png" alt="">
-            <h1 class="text-5xl text-slate-50 text-center">Login</h1>
+            <h1 class="text-5xl text-slate-50 text-center">{{ $formTitle }}</h1>
             <div class="pt-20">
                 {{ $slot }}
             </div>

@@ -37,7 +37,7 @@ class DonationsController extends Controller
         $request->validate([
             'title' => 'required|string|max:255',
             'description' => 'required|string',
-            'image' => 'required|image|max:2048', // Removed specific mimes validation
+            'image' => 'required|image', // Removed specific mimes validation
         ]);
 
         $imageName = time().'.'.$request->image->getClientOriginalExtension();  
