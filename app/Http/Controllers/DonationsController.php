@@ -9,6 +9,7 @@ use Auth;
 
 class DonationsController extends Controller
 {
+    // Fungsi untuk menampilkan semua donasi
     public function index() : View
     {
         // Get all donations
@@ -27,11 +28,13 @@ class DonationsController extends Controller
         return view('mydonations', compact('mydonasis'));
     }
 
+    // Fungsi untuk menampilkan form pembuatan donasi baru
     public function create()
     {
         return view('createdonation');
     }
 
+     // Fungsi untuk menyimpan donasi baru yang dibuat oleh user
     public function store(Request $request)
     {
         $request->validate([
@@ -55,18 +58,21 @@ class DonationsController extends Controller
         return redirect()->route('createdonation')->with('success', 'Donation created successfully.');
     }
 
+     // Fungsi untuk menampilkan detail dari donasi tertentu berdasarkan id
     public function show($id)
     {
         $donasi = Donasi::findOrFail($id);
         return view('detaildonation', compact('donasi'));
     }
 
+    // Fungsi untuk menampilkan form edit donasi tertentu berdasarkan id
     public function edit($id)
     {
         $donasi = Donasi::findOrFail($id);
         return view('editmydonation', compact('donasi'));
     }
 
+    // Fungsi untuk mengupdate donasi tertentu berdasarkan id
     public function update(Request $request, $id)
     {
         $donasi = Donasi::findOrFail($id);
@@ -85,6 +91,7 @@ class DonationsController extends Controller
         return redirect()->route('mydonations')->with('error', 'Tidak ada tindakan yang dilakukan.');
     }
 
+     // Fungsi untuk menambahkan donasi uang pada donasi tertentu berdasarkan id
     public function donate(Request $request, $id)
     {
         $request->validate([
