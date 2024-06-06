@@ -13,11 +13,19 @@
         @csrf
         @method('put')
 
+        <p class="mt-1 text-sm text-gray-600">
+            {{ __('Enter Your Password.') }}
+        </p>
+
         <div>
             <x-input-label for="update_password_current_password" :value="__('Current Password')" />
             <x-text-input id="update_password_current_password" name="current_password" type="password" class="mt-1 block w-full" autocomplete="current-password" />
             <x-input-error :messages="$errors->updatePassword->get('current_password')" class="mt-2" />
         </div>
+
+        <p class="mt-1 text-sm text-gray-600">
+            {{ __('Enter Your New Password.') }}
+        </p>
 
         <div>
             <x-input-label for="update_password_password" :value="__('New Password')" />

@@ -24,6 +24,7 @@ Route::get('/how-it-works', function () {
 
 Route::get('/My-Donations', [DonationsController::class, 'mydonations'])->middleware(['auth', 'verified'])->name('mydonations');
 Route::get('/All-Donations', [DonationsController::class, 'index'])->middleware(['auth', 'verified'])->name('alldonations');
+Route::get('/Create-Donation', [DonationsController::class, 'createdonation'])->middleware(['auth', 'verified'])->name('createdonation');
 Route::get('/create-donation', [DonationsController::class, 'create'])->middleware(['auth', 'verified'])->name('createdonation');
 Route::post('/store-donation', [DonationsController::class, 'store'])->name('donations.store');
 

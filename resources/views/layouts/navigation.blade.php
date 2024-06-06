@@ -28,6 +28,11 @@
                         {{ __('My Donations') }}
                     </x-nav-link>
                 </div>
+                <div class="hidden space-x-3 sm:-my-px sm:ms-10 sm:flex">
+                    <x-nav-link :href="route('createdonation')" :active="request()->routeIs('dashboard')">
+                        {{ __('Create Donation') }}
+                    </x-nav-link>
+                </div>
             </div>
 
             <!-- Settings Dropdown -->
