@@ -4,7 +4,7 @@
 3. Hesti Awalia Putri          |233307016|Uji Coba (Dokumentasi)
 
 # Nama Aplikasi
-> GIFTOON.ID adalah sebuah website yang digunakan untuk membuka maupun memberikan donasi. website ini sangat membantu bagi para pembuka penggalang dana ataupun streamer untuk membuka donasi. dan memberikan opsi penambahan konten bagi donatur untuk streamer maupun penggalang dana.
+> GIFTOON.ID adalah sebuah website yang digunakan untuk membuka maupun memberikan donasi. website ini sangat membantu bagi para pembuka penggalang dana untuk membuka donasi.
 
 ## featur
 Sprint 1
